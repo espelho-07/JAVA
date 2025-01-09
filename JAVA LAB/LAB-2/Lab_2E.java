@@ -1,3 +1,6 @@
+/*Write a program that prompts the user to enter three numbers. Find the largest 
+number*/
+
 import java.util.Scanner;
 public class Lab_2E{
 	public static void main(String[] args){

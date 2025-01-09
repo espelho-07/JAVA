@@ -1,3 +1,5 @@
+/* Write a program to convert temperature from  Celsius to Fahrenheit.*/
+
 import java.util.Scanner;
 public class Lab_2D{
 	public static void main(String[] args){
@@ -11,7 +13,10 @@ public class Lab_2D{
 	}
 }
 
-/*import java.util.Scanner;
+/*Write a program to convert temperature from Fahrenheit to Celsius. (Formula : c = f
+32*5/9 )*/
+
+import java.util.Scanner;
 public class Lab_2D{
 	public static void main(String[] args){
 
@@ -22,4 +27,4 @@ public class Lab_2D{
 
 		System.out.println("Temperature In Celcius::"+((F-32)*(5/9)));
 	}
-}*/
+}
