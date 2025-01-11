@@ -16,7 +16,7 @@ public class Lab_1C{
 
 //3-Write a java program to take user input :: ii. through Scanner class.
 
-import java.util.Scanner;
+/*import java.util.Scanner;
 public class Lab_1C{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
@@ -27,4 +27,4 @@ public class Lab_1C{
         System.out.println("The Number You Enter Is="+A);
 
     }
-}
+}*/

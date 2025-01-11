@@ -21,11 +21,11 @@ public class Lab_1D{
 /*Write a program to get 2 numbers from the user and print the sum of two numbers 
 Using Command Line*/
 
-public class Lab_1D{
+/*public class Lab_1D{
     public static void main(String[] args){
         float A=Float.parseFloat(args[0]);
         float B=Float.parseFloat(args[1]);
 
         System.out.println("A+B="+(A+B));
     }
-}
+}*/
