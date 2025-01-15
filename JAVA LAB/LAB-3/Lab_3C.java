@@ -14,7 +14,8 @@ public class Lab_1C{
         System.out.println("Enter Third Number=");
         int Number_3=sc.nextInt();
 
-        
+        int max=(Number_1 > Number_2 && Number_1 > Number_3) ? Number_1 : (Number_2 > Number_3 ? Number_2: Number_3);
+        System.out.println("The maximum number is " + max);
 
     }
 }
