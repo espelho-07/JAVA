@@ -13,7 +13,7 @@ public class Lab_3D{
         for(int i=2;i<Number;i++){
             if(Number%i==0){
                 count++;
-            }
+             }
         }
         if(count==0){
             System.out.println("The Number You Entered "+Number+" Is Prime");
