@@ -1,4 +1,8 @@
- import java.util.Scanner;
+//Define class for Complex number with real and imaginary as data members. Create its 
+//constructor, overload the constructors. Also define addition method to add two 
+//complex objects. 
+
+import java.util.Scanner;
 class complex{
 	double real;
 	double  imaginary;

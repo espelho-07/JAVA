@@ -1,3 +1,4 @@
+//WAP that counts the number of objects created using static.
 class Count{
 	static int i=0;
 	public Count(){

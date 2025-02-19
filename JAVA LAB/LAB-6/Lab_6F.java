@@ -1,3 +1,6 @@
+//Write a program in Java to demonstrate use of this keyword. Check whether this can 
+//access the Static variables of the class or not.
+
 class Count{
 	static int i=0;
 	int j=0;
